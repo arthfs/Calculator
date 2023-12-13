@@ -1,3 +1,5 @@
+<img src="https://media.giphy.com/media/fpa5pofTfcDcGouH6V/giphy.gif" width =200> <br><br> 
+
 MyCalculator App
 
 Welcome to the Calculator App – Your All-in-One Solution for Mathematical Operations!
